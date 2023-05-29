@@ -10,7 +10,7 @@ const { InjectManifest } = require('workbox-webpack-plugin');
 module.exports = () => {
   return {
     //change to production when ready to deploy on heroku
-    mode: 'development',
+    mode: 'production',
     //entry is the first file that gets hit
     entry: {
       main: './src/js/index.js',
