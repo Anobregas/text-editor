@@ -19,6 +19,11 @@ this project is a demonstration of how to build a progressive web application. t
 **Webpack**, **express**, **node**, 
 
 
+## Deployment
+
+https://text-editor123-app.herokuapp.com/
+
+
 ## VIDEO
 
 ![App demonstratrion](https://drive.google.com/file/d/1wPZS0-G0cN_U0r2Ltqqjh4hl-zfeVa9x/view)
